@@ -1,0 +1,116 @@
+@media all and (max-width: 670px) {
+
+  .header-right{
+    display:none;
+  }
+
+  header{
+    width:100%;
+    height:500px;
+  }
+
+  header h1{
+    padding-top:100px;
+    font-size:60px;
+    padding-left:0px;
+    text-align:center;
+  }
+
+  header p{
+    padding-top:50px;
+    padding-left:0px;
+    font-size:30px;
+    text-align:center;
+  }
+
+  .main{
+    height:620px;
+  }
+
+    .main h2{
+      font-size:60px;
+      padding-top:50px;
+      text-align:center;
+      padding-bottom:30px;
+    }
+
+    .main h3{
+      font-size:20px;
+      padding-top:20px;
+      font-weight:normal;
+      padding-bottom:20px;
+      text-align:center;
+      display:none;
+    }
+
+    .main p{
+      width:80%;
+      font-size:20px;
+      padding-left:40px;
+      line-height: 200%;
+    }
+
+    .main2{
+      height:500px;
+      background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/laptop-in-the-office-1967479_960_7201.jpg");
+      background-size:cover;
+    }
+
+    .main3{
+      height:500px;
+      background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/paper-3213924_960_7202.jpg");
+      background-size:cover;
+    }
+
+    .main2 h2,.main3 h2{
+      font-size:50px;
+      padding-top:50px;
+      text-align:center;
+      padding-bottom:30px;
+    }
+
+    .main2 h3,.main3 h3{
+      display:none;
+    }
+
+    .main2 p,.main3 p{
+      width:80%;
+      font-size:20px;
+      padding-left:40px;
+      line-height: 200%;
+    }
+
+    .main2 a,.main3 a{
+      padding-left:50px;
+      font-size:30px;
+      color:black;
+    }
+
+    .contact{
+      height:400px;
+      background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/businessman-2956974_960_7203.jpg");
+      background-size:cover;
+      background-image:none;
+    }
+
+    .contact h2{
+      font-size:50px;
+      padding-top:50px;
+      padding-bottom:50px;
+    }
+
+    .contact p{
+      width:80%;
+      font-size:20px;
+      padding-left:40px;
+      line-height: 200%;
+    }
+
+    .contact a{
+      font-size:30px;
+      text-align:center;
+      color:black;
+      padding-left:50px;
+    }
+
+}
