@@ -1,13 +1,13 @@
 *{
   margin:0;
   padding:0;
-   box-sizing: border-box;
   font-family:"ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
 }
 
 .container{
   margin:0 auto;
-  width:1080px;
+  max-width:1080px;
+  width:100%;
 }
 
 header{
