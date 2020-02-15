@@ -11,7 +11,7 @@
 
 header{
   color:white;
-  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/1-2.jpg");
+  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/paris-1836415_960_720.jpg");
   background-size:cover;
   height:900px;
   width:70%;
@@ -48,7 +48,7 @@ header p{
 }
 
 .header-right ul{
-  padding-top:550px;
+  padding-top:750px;
   padding-left:50px;
   list-style: none;
 }
@@ -64,8 +64,14 @@ header p{
   font-style:oblique;
 }
 
+.header-right a{
+  color:white;
+  text-decoration:none;
+}
+
 .main{
   height:700px;
+  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/brick-2172682_960_7201.jpg");
 }
 
 .main h2{
@@ -90,13 +96,13 @@ header p{
 
 .main2{
   height:800px;
-  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/noname22.png");
+  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/laptop-in-the-office-1967479_960_7201.jpg");
   background-size:cover;
 }
 
 .main3{
   height:800px;
-  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/noname４５.png");
+  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/paper-3213924_960_7202.jpg");
   background-size:cover;
 }
 
@@ -136,6 +142,8 @@ header p{
 
 .contact{
   height:500px;
+  background-image:url("http://shota-prof.site/wp-content/uploads/2020/02/businessman-2956974_960_7203.jpg");
+  background-size:cover;
 }
 
 .contact h2{
