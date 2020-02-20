@@ -1,0 +1,21 @@
+@media all and (max-width: 670px) {
+
+  .main p{
+  padding-left:10px;
+  padding-right:10px;
+  }
+
+h1,h2{
+  text-align:center;
+}
+
+header{
+  display:none;
+}
+
+.main h1{
+  background-color:gray;
+  color:white;
+}
+
+}
